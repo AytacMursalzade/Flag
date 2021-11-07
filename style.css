@@ -1,0 +1,21 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    width: 400px; 
+    height: 100px;
+    background-color: #E00034;
+    float: left;
+    border-top:100px solid blue;
+    border-bottom:100px solid green;
+}
+
+.img{
+    
+    margin: 14px;
+    margin-left:143px;
+    width: 90px;
+    height: 70px;
+}
